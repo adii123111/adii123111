@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning DSA <br><br>👨‍💻 All of my projects are available at https://aditya-pi.vercel.app/<br><br>📫 How to reach me adityvishwakarma2004@gmail.com<br><br>📄 Know about my experiences <br>https://drive.google.com/drive/folders/1ZKHIm3yz3P8Rd-g1IX_UuUZvWvcdSr8t</p>
+<p align="left">🌱 I’m currently learning DSA <br><br>👨‍💻 Here's my portfolio https://aditya-pi.vercel.app/<br><br>📫 How to reach me adityvishwakarma2004@gmail.com<br><br>📄 Know about my experiences <br>https://drive.google.com/drive/folders/1ZKHIm3yz3P8Rd-g1IX_UuUZvWvcdSr8t</p>
 
 ###
 
